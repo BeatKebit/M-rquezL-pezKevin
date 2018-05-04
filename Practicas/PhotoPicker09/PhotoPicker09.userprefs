@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A9A8B5C4-CE7C-436B-8471-B37982E00F70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoPicker09/ViewController.cs">
+    <Files>
+      <File FileName="PhotoPicker09/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="PhotoPicker09/ViewController.designer.cs" Line="70" Column="1" />
+      <File FileName="PhotoPicker09/ViewController.cs" Line="154" Column="35" />
+      <File FileName="PhotoPicker09/Info.plist" />
+      <File FileName="PhotoPicker09/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PhotoPicker09 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BE96FF89-18D7-4464-857D-6CF2AC6A24D3" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PhotoPicker09>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

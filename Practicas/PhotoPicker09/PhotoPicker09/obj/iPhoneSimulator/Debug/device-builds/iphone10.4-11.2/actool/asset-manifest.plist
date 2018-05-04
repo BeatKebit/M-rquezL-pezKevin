@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/issc611/Desktop/Kevin/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/bundle/Assets.car</string>
+			<string>/Users/issc611/Desktop/Kevin/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Profile.imageset/[universal][][][1x][][][][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/issc611/Desktop/Kevin/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "profile.png" for the image set "Profile" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Profile.imageset/[universal][][][1x][][][][][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/issc611/Desktop/Kevin/PhotoPicker09/PhotoPicker09/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "profile.png" for the image set "Profile" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

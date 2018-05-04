@@ -1,0 +1,9 @@
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/10BasicTableView.csproj.CoreCompileInputs.cache
+/Users/issc611/Desktop/Kevin/10BasicTableView/bin/iPhoneSimulator/Debug/10BasicTableView.exe
+/Users/issc611/Desktop/Kevin/10BasicTableView/bin/iPhoneSimulator/Debug/10BasicTableView.pdb
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/10BasicTableView.exe
+/Users/issc611/Desktop/Kevin/10BasicTableView/obj/iPhoneSimulator/Debug/10BasicTableView.pdb

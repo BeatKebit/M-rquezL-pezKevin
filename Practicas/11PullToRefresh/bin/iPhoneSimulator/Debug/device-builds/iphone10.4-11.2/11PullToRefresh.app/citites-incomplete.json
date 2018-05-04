@@ -1,0 +1,73 @@
+  {
+    "A":[
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Australia",
+        "Austria",
+        "Azerbaijan"
+      ],
+    "K":[
+        "Kazakhstan",
+        "Kiribati",
+        "Kyrgyzstan"
+      ],
+    "L":[
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg"
+      ],
+    "M":[
+        "Macedonia",
+        "Madagascar",
+        "Malawi",
+        "Mauritius",
+        "Mexico",
+        "Micronesia",
+        "Moldova",
+      ],
+    "R":[
+        "Romania",
+        "Russia",
+        "Rwanda"
+      ],
+    "S":[
+        "St. Kitts and Nevis ",
+        "St. Lucia",
+        "Samoa",
+        "San Marino",
+        "Sao Tome and Principe ",
+      ],
+    "T":[
+        "Taiwan",
+        "Tajikistan",
+        "Tanzania",
+        "Thailand",
+        "Timor-Leste",
+        "Togo",
+        "Tonga",
+        "Trinidad and Tobago",
+        "Tunisia",
+        "Turkey",
+        "Turkmenistan",
+        "Tuvalu"
+      ],
+    "U":[
+        "Uganda",
+        "Ukraine",
+        "United States of America (USA)",
+        "Uruguay",
+        "Uzbekistan"
+      ],
+    "V":[
+        "Vanuatu",
+        "Vatican City (Holy See)",
+        "Venezuela",
+        "Vietnam"
+      ],
+    "Z":[
+        "Zambia",
+        "Zimbabwe"
+      ]
+  }
